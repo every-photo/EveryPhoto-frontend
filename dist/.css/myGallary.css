@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #2e3845;
+}
+.toChoose {
+  opacity: 1;
+}
+.toHide {
+  display: none;
+}
+.toDisplay {
+  display: none;
+}
+nav {
+  background-color: #2e3845;
+  line-height: 53px;
+  padding: 5px;
+  min-width: 900px;
+}
+h2 a {
+  text-decoration: none;
+  color: #fff;
+}
+h2 a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+body {
+  background-color: #2e3845;
+}
+nav h2 {
+  color: #fff;
+  margin: 10px;
+  padding: 0;
+  font-size: 30px;
+  display: inline-block;
+}
+nav p {
+  color: rgba(255,255,255,0.5);
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+nav div {
+  line-height: 53px;
+  display: inline-block;
+  float: right;
+  margin-right: 50px;
+}
+nav ul {
+  display: inline-block;
+  list-style-type: none;
+}
+nav ul li {
+  margin-left: 50px;
+  display: inline-block;
+  color: #fff;
+  opacity: 0.3;
+  transition: all ease 1s;
+  font-size: 18px;
+  user-select: none;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+nav ul li a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+nav li:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+body {
+  background-color: #1a2733;
+}
